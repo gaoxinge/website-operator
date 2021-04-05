@@ -24,6 +24,7 @@ or directly use
 ## yaml
 
 ```shell script
+# base on https://github.com/luksa/kubernetes-in-action/tree/master/Chapter18
 kubectl create -f yaml/website-crd.yaml
 kubectl create -f yaml/website-controller.yaml
 kubectl create serviceaccount website-controller
