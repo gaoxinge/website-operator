@@ -48,5 +48,5 @@ curl http://127.0.0.1:58599/subdir
 
 ## TODO
 
-- [ ] add polling to website control for event missing
-- [ ] add update to website control
+- [ ] add polling to website controller for event missing
+- [ ] add update to website controller
